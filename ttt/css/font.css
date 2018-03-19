@@ -1,0 +1,65 @@
+/* font family Font Awesome 100 */
+
+@font-face {
+  font-family: 'Font Awesome';
+  src: url('../fonts/FontAwesome/fontawesome-webfont.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/FontAwesome/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/FontAwesome/fontawesome-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/FontAwesome/fontawesome-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/FontAwesome/fontawesome-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+	url('../fonts/FontAwesome/fontawesome-webfont.svg#fontawesome-webfont') format('svg'); /* Legacy iOS */
+	font-weight: 100;
+    font-style: normal;
+}
+
+/* font family Museo Sans 100 */
+
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: url('../fonts/MuseoSansCyrl/MuseoSansCyrl100/MuseoSansCyrl100.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/MuseoSansCyrl/MuseoSansCyrl100/MuseoSansCyrl100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl100/MuseoSansCyrl100.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl100/MuseoSansCyrl100.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl100/MuseoSansCyrl100.ttf')  format('truetype'), /* Safari, Android, iOS */
+	url('../fonts/MuseoSansCyrl/MuseoSansCyrl100/MuseoSansCyrl100.svg#MuseoSansCyrl100') format('svg'); /* Legacy iOS */
+	font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: url('../fonts/MuseoSansCyrl/MuseoSansCyrl100Italic/MuseoSansCyrl100Italic.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/MuseoSansCyrl/MuseoSansCyrl100Italic/MuseoSansCyrl100Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl100Italic/MuseoSansCyrl100Italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl100Italic/MuseoSansCyrl100Italic.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl100Italic/MuseoSansCyrl100Italic.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl100Italic/MuseoSansCyrl100Italic.svg#NMuseoSansCyrl100Italic') format('svg'); /* Legacy iOS */
+    font-weight: 100;
+    font-style: italic;
+}
+
+/* font family Museo Sans 300 */
+
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: url('../fonts/MuseoSansCyrl/MuseoSansCyrl300/MuseoSansCyrl300.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/MuseoSansCyrl/MuseoSansCyrl300/MuseoSansCyrl300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl300/MuseoSansCyrl300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl300/MuseoSansCyrl300.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl300/MuseoSansCyrl300.ttf')  format('truetype'), /* Safari, Android, iOS */
+	url('../fonts/MuseoSansCyrl/MuseoSansCyrl300/MuseoSansCyrl300.svg#MuseoSansCyrl300') format('svg'); /* Legacy iOS */
+	font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Museo Sans Cyrl';
+  src: url('../fonts/MuseoSansCyrl/MuseoSansCyrl900/MuseoSansCyrl900.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/MuseoSansCyrl/MuseoSansCyrl900/MuseoSansCyrl900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl900/MuseoSansCyrl900.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl900/MuseoSansCyrl900.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/MuseoSansCyrl/MuseoSansCyrl900/MuseoSansCyrl900.ttf')  format('truetype'), /* Safari, Android, iOS */
+	url('../fonts/MuseoSansCyrl/MuseoSansCyrl900/MuseoSansCyrl900.svg#MuseoSansCyrl900') format('svg'); /* Legacy iOS */
+	font-weight: 900;
+    font-style: normal;
+}

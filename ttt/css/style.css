@@ -1,0 +1,524 @@
+/* ----- base settings css -----*/
+
+html {
+    font-size: 14px;
+}
+
+body {
+   background: #bdd3db;
+    color: #000;
+	
+}
+
+h1, h2, h3, button {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+   font-size: 64px; 
+    color: #4b4b4b;
+}
+
+h2 {
+    font-size: 26px;
+ color: #494f51;
+}
+
+
+p, ul, li {
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+header{
+    background: #fff;
+    
+}
+.btn-ico{
+  width: 325px;
+    height: 40px;
+    background: #f36240;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 18px;
+   transition: 1s;
+}
+
+.btn-ico:hover{
+ 
+   
+    background: #fff;
+    color: #f36240;
+    border-radius: 5px;
+    
+    border: 1px solid #f36240;
+     outline: none;
+}
+
+
+
+
+
+
+.contacts{
+    display: flex;
+
+    margin-top: 75px;
+            
+}
+.sale:hover{
+ color: #f36240;   
+}
+.sale {
+    color: #f36240;
+    font-size: 23px;
+   
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.telephone{
+   margin-left: 100px; 
+    
+}
+.day{
+    font-size: 16px;
+    margin-left: auto;
+      justify-content: flex-end;
+    display: flex;
+}
+.tel{
+  font-size: 31px; 
+ 
+    
+}
+.logo{
+  margin-top: 25px; 
+}
+
+
+
+ 
+
+
+.menu{
+    display: flex;
+    justify-content: center;
+  font-size: 24px;
+      text-align: center;
+    margin-top: 25px;
+}
+.menu__item {
+  width: 250px; 
+    font-size: 24px;
+   
+
+}
+
+.menu__item a {
+  display: block; 
+     text-align: center; 
+   text-decoration: none;
+     color: #aaa;  
+}
+
+.menu__item :hover{
+    background: #7bc3d5;
+    color: aliceblue;
+    border-radius: 3px;
+     transition: 0.5s;
+}
+
+
+
+
+
+#advantages{
+    padding-top: 50px;
+}
+.advantages__title{
+    margin-bottom: 15px;
+    font-size: 64px;
+}
+.menu__right{
+width: 250px;  
+background: #fff;
+    margin-top: 50px;
+    border-radius: 3px;
+   padding: 15px;
+
+}
+.menu__right-title{
+        font-size: 20px;
+}
+.menu__right-item{
+    margin-top: 20px;
+    text-decoration:underline;
+  font-size: 16px;
+}
+.menu__right-item a{
+   color: #aaa; 
+
+}
+.menu__right-item a:hover{
+   color:  #f36240;
+}
+
+
+
+
+.menu__left{
+margin-top: 50px;
+   background: #fff;,
+    padding-bottom: 113px;
+   border-radius: 3px;
+    
+}
+.menu__left-content{
+    
+}
+.menu__left-title{
+padding-top: 25px;
+    margin-bottom: 35px;
+    padding-left: 25px;
+}
+.images{
+    padding-bottom: 50px;
+}
+.window__item{
+    padding-left: 50px;
+    
+}
+.window__item p{
+   font-size: 18px;
+    color: #aaa;
+    text-align: center; 
+}
+
+
+
+.rehau__content{
+    margin-left: 100px;
+}
+.awards{
+    padding-bottom: 50px;
+}
+.awards__item{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #f36240;
+    margin-right: 8px;
+    margin-top: 7px;    
+}
+.menu__left-content{
+    display: flex;
+}
+.awards__block{
+    display: flex;
+    margin-top: 10px;
+}
+.awards__text{
+    font-size: 14px;
+}
+
+.rehau__picking-title{
+    font-size: 20px;
+}
+.rehau__img-item{
+  height: 50px;
+    width: 50px;
+    border-radius: 3px;
+    background: red;
+}
+.rehau__img{
+    margin-top: 25px;
+    display: flex;
+}
+.rehau__img-item{
+    margin: 5px;
+}
+
+.rehau__picking-info{
+   font-size: 14px; 
+    width: 350px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.send{
+ padding-bottom: 100px;
+   padding-top: 10px;
+}
+.send__btn{
+   font-size: 14px;
+    color: #aaa;
+    text-decoration: underline;
+}
+.send__btn:hover{
+      font-size: 14px;
+    color: #f36240;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+.offer__right{
+    background: #fff;
+    margin-top: 25px;
+    border-radius: 3px;
+    padding-bottom: 50px;
+}
+.offer__content{
+    padding-left: 20px;
+}
+.offer__title{
+    padding-top: 25px;
+}
+
+.offer__block{
+    display: flex;
+    margin-top: 25px;
+}
+.offer__img{
+    
+}
+.offer__text{
+    margin-left: 50px;
+    width: 700px;
+}
+
+
+
+
+.namber-list{
+width: 25px;
+    height: 25px;
+    border-radius: 50%;
+   border: 1px solid #000;
+    position: relative;
+    margin-top: 5px;
+}
+.one{
+    position: absolute;
+    left: 6px;
+    top: 1px;
+}
+.offer__second-text{
+    margin-left: 20px;
+    width: 800px;
+}
+
+
+
+
+
+#reviews{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.reviews__title-block{
+    display: flex;
+}
+.view{
+    margin-left: 250px;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #eb5825;
+    text-decoration:underline;
+}
+.reviews__content{
+     background: #fff;
+    margin-top: 25px;
+    border-radius: 3px;
+    padding-bottom: 50px;
+}
+.reviews__content-left{
+    padding-top: 25px;
+    padding-left: 25px;
+}
+.treaty{
+    font-size: 14px;
+    color: #aaa;
+    margin-bottom: 10px;
+}
+.name{
+   font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.rating{
+    padding-bottom: 10px;
+}
+
+.read {
+   padding-top: 25px;
+  text-decoration: none;
+    font-size: 12px;
+    color: #eb5825;
+    
+}
+.read a{
+    text-decoration: none;
+    font-size: 12px;
+    color: #eb5825;
+    border-bottom: 1px dotted #eb5825;
+}
+ .read a:hover{
+   color: #aaa;
+     border-bottom: 1px dotted #eb5825;
+}
+
+.leave{
+    width: 175px;
+    height: 40px;
+    margin-top: 25px;
+    background: #f36240;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 18px;
+   transition: 1s;
+   
+}
+.leave:hover{
+     background: #fff;
+    color: #f36240;
+    border-radius: 5px;
+    font-size: 18px;
+    border: 1px solid #f36240;
+     outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* burger */
+
+
+.burger-menu {
+    font-size: 4rem;
+    margin-top: 17px;
+}
+
+
+.burger {
+    margin-top: 28px;
+    background: none;
+    border: none;
+}
+
+.burger:hover {
+    opacity: 0.7;
+}
+
+.burger span {
+    width: 48px;
+    height: 7px;
+    border-radius: 1px;
+    margin-bottom: 4px;
+    background: #f36240;;
+    display: block;
+}
+
+.burger span:nth-child(3) {
+    margin-bottom: 0;
+}
+
+.burger-menu {
+	display: none;
+	position: relative;
+	background: rgba(0,0,0,0.12);
+}
+
+.burger-menu__item {
+    display: block;
+    text-transform: uppercase;
+    font-size: 1.70rem;
+	text-align: center;
+	padding: 20px 0;
+    
+}
+
+.burger-menu__item a {
+	width: 100%;
+    color: #f36240;;
+}
+
+.burger-menu__item a:hover{
+    background: rgba(255, 255, 255, 0.14);
+	display: block;
+	padding: 20px 0;
+}
+
+.visible {
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.images div{
+
+}
+.images div {
+  height: 40px;
+  width: 40px;
+  
+  margin: 10px;
+  float: left;
+  cursor: pointer;
+}
+
+
+
+.active{
+background: #aaa;
+}
+
+
+
+
+
+
+
+
